@@ -1,4 +1,4 @@
-# Código de Conduta da Comunidade KidsAcademy
+# Código de Conduta da Comunidade Kids Academy
 
 ## Resumo
 
