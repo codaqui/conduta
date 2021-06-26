@@ -1,22 +1,22 @@
-# Código de Conduta da Comunidade Kids Academy
+# Código de Conduta da Comunidade Codaqui
 
 ## Resumo
 
-A KidsAcademy é uma comunidade dedicada a oferecer um ambiente livre de assédio para todos, independentemente do sexo, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, cor de pele, etnia, religião (ou falta dela), tamanho do corpo, nacionalidade, ideologia política, experiência em computação e suas tecnologias (ou a falta dela).
+A Codaqui é uma comunidade dedicada a oferecer um ambiente livre de assédio para todos, independentemente do sexo, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, cor de pele, etnia, religião (ou falta dela), tamanho do corpo, nacionalidade, ideologia política, experiência em computação e suas tecnologias (ou a falta dela).
 
 Nós não toleramos o assédio aos participantes da comunidade, sob qualquer forma.
 
-Linguagem e imagens sexuais não são apropriadas em nenhum espaço, incluindo palestras, workshops, festas, discussões do Meetup e outras mídias on-line. Os participantes que violarem essas regras poderão ser expulsos dos Encontros da KidsAcademy. A punição pode ir desde a expulsão do membro, até ser banido de eventos futuros promovidos pela KidsAcademy e comunidades adjacentes.
+Linguagem e imagens sexuais não são apropriadas em nenhum espaço, incluindo palestras, workshops, festas, discussões do Meetup e outras mídias on-line. Os participantes que violarem essas regras poderão ser expulsos dos Encontros da Codaqui. A punição pode ir desde a expulsão do membro, até ser banido de eventos futuros promovidos pela Codaqui e comunidades adjacentes.
 
 ## Versão Completa
 
 ### 1. Proposta
 
-O objetivo principal da Comunidade Kids Academy é incluir o maior número de participantes, com as origens mais variadas e diversas possíveis. Como tal, estamos comprometidos em proporcionar um ambiente amigável, seguro e acolhedor para todos, independentemente do sexo, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, cor de pele, etnia, religião (ou falta dela), tamanho do corpo, etnia, nacionalidade, ideologia política, experiência em computação e suas tecnologias (ou a falta dela).
+O objetivo principal da Comunidade Codaqui é incluir o maior número de participantes, com as origens mais variadas e diversas possíveis. Como tal, estamos comprometidos em proporcionar um ambiente amigável, seguro e acolhedor para todos, independentemente do sexo, identidade de gênero e expressão, idade, orientação sexual, deficiência, aparência física, tamanho corporal, cor de pele, etnia, religião (ou falta dela), tamanho do corpo, etnia, nacionalidade, ideologia política, experiência em computação e suas tecnologias (ou a falta dela).
 
 Este código de conduta delineia nossas expectativas para todos aqueles que participam de nossa comunidade, bem como as conseqüências de um comportamento inaceitável.
 
-Convidamos todos aqueles que participam da Kids Academy a nos ajudar a criar experiências seguras e positivas para todos.
+Convidamos todos aqueles que participam da Codaqui a nos ajudar a criar experiências seguras e positivas para todos.
 
 ### 2. Cidadania
 
@@ -59,8 +59,8 @@ Os comportamentos a seguir são considerados assédio e são inaceitáveis em no
 O assédio inclui comentários verbais ofensivos relacionados a gênero, identidade e expressão de gênero, idade, orientação sexual, deficiência, aparência física, tamanho corporal, raça, etnia, nacionalidade, religião ou opiniões políticas, imagens sexuais em espaços públicos, intimidação deliberada, perseguição , fotografia ou gravação de áudio / vídeo contra consentimento razoável, interrupção sustentada de palestras ou outros eventos, contato físico inadequado e atenção sexual indesejada.
 
 * Os participantes solicitados a parar com comportamento de assédio devem cumprir imediatamente.
-* Todo e qualquer material criado para a Comunidade do Kids Academy devem respeitar esse código de conduta.
-* Se você estiver sendo assediado, ou observar algum comportamento onde alguém está sendo assediado ou tenha qualquer outra preocupação, entre em contato com um membro da equipe do Kids Academy imediatamente.
+* Todo e qualquer material criado para a Comunidade do Codaqui devem respeitar esse código de conduta.
+* Se você estiver sendo assediado, ou observar algum comportamento onde alguém está sendo assediado ou tenha qualquer outra preocupação, entre em contato com um membro da equipe do Codaqui imediatamente.
 
 
 #### 4.2 Fotografia
@@ -90,7 +90,7 @@ Esperamos que todos os participantes da comunidade (contribuintes, remunerados o
 Este código de conduta e seus procedimentos relacionados também se aplicam ao comportamento inaceitável que ocorre fora do escopo das atividades comunitárias, quando esse comportamento tem o potencial de afetar adversamente a segurança e o bem-estar dos membros da comunidade.
 
 ### Referências
-Este código de conduta é distribuído sob uma licença [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/), feito pela comunidade do Kids Academy.
+Este código de conduta é distribuído sob uma licença [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/3.0/), feito pela comunidade do Codaqui.
 Com base e revisões a partir do [The Hack Day Manifesto](https://hackdaymanifesto.com), [CitizenCode](http://citizencodeofconduct.org/), [Conduta DevParaná](https://github.com/DeveloperParana/conduta), [Hack Code of Conduct](https://hackcodeofconduct.org), [Código de Conduta do Django](https://www.djangoproject.com/conduct/), [Politica Anti-Assédio do Geek Feminism](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
 Agradecemos a toda comunidade de Educação e Programação :heart:
